@@ -1,0 +1,32 @@
+body{
+  /* background-image: url(./assets/images/weather.png);
+  background-repeat: no-repeat; 
+  background-size: cover; */
+  background-color: #303841;
+}
+
+.header{
+  margin: 10% auto 0;
+  text-align: center;
+  color: #eeeeee;
+  font-size: 3rem;
+}
+.city-name{
+  margin-bottom: 0;
+}
+
+.weather-info{
+  width: 28rem;
+  margin: auto auto;
+  /* text-align: right; */
+  color: #00adb5;
+}
+
+.temp{
+  font-size: 3rem;
+  margin-top:0;
+}
+.max-min-temp{
+  font-weight: 600;
+  margin: 0;
+}
